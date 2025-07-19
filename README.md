@@ -56,7 +56,7 @@ I'm a passionate Software Engineer with expertise in web development and modern 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadelrazh&theme=radical&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadelrazh&theme=github&hide_border=true" alt="Contribution Graph">
 </div>
 
 ## 🎯 Featured Projects
